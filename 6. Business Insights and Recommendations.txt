@@ -1,0 +1,44 @@
+# NYC Taxi Data – Business Insights
+
+## 1. Overview
+This analysis is based on cleaned NYC Yellow Taxi trip data from 2022 using Google BigQuery.
+
+## 2. Key Findings
+
+### 🚕 Demand Patterns
+- Peak demand occurs during evening hours (around 6 PM – 9 PM).
+- Late-night trips show lower volume but higher average fares.
+
+### 💰 Revenue Trends
+- Revenue is highest during summer months.
+- Month-over-month growth shows seasonal fluctuations.
+
+### 💳 Payment Behavior
+- Card payments dominate over cash transactions.
+- Card users tend to tip more than cash users.
+
+### 📍 Trip Characteristics
+- Most trips are short-distance (under 5 miles).
+- Longer trips generate disproportionately higher revenue.
+
+## 3. Data Quality Issues
+- Some records had zero or negative fares.
+- Trips with invalid passenger counts were removed.
+- These issues were handled during the cleaning phase.
+
+## 4. Recommendations
+
+### ✅ Operational
+- Increase fleet availability during peak evening hours.
+- Optimize driver deployment in high-demand zones.
+
+### ✅ Revenue
+- Promote digital payments to improve tipping behavior.
+- Introduce dynamic pricing during peak periods.
+
+### ✅ Data
+- Improve validation at data capture stage.
+- Monitor abnormal fare patterns regularly.
+
+## 5. Business Impact
+Implementing these recommendations can improve revenue efficiency and customer satisfaction.

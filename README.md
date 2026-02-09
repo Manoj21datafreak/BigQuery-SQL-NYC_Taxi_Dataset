@@ -1,5 +1,3 @@
-# BigQuery-SQL-NYC_Taxi_Dataset
-
 # NYC Taxi Data Analysis using BigQuery & SQL
 
 ## 📌 Project Overview
